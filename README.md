@@ -1,2 +1,2 @@
 # wulnanofficial.io
-A Portfolio website. Using CSS and JavaScript.
+A Professional Portfolio Website. Using CSS and JavaScript.
